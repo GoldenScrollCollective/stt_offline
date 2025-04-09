@@ -1,0 +1,7 @@
+{  
+    "model_path": "./models/vosk-model-small-en-us-0.15",  
+    "sample_rate": 16000,  
+    "channels": 1,  
+    "device_index": 0,  
+    "chunk_size": 2048  
+}
